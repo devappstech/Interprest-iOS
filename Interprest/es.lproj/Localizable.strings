@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Interprest
+
+  Created by Sergio Mallafré Navarro on 12/1/16.
+  Copyright © 2016 apple. All rights reserved.
+*/
+"general.home" = "Inicio";
+"general.messages" = "Mensajes";
+"general.no_posts" = "Actualmente no hay mensajes publicados";
+"error.select_language" = "Selecciona el idioma que quieres oir";
+"error" = "Se ha producido un error.";
+"action.ok" = "Aceptar";
+"action.refreshing" = "Actualizando datos...";
+"action.initializing" ="Inicializando. Espere, por favor...";
+"time.seconds" = "s";
+"time.minutes" = "m";
+"time.hours" = "h";
+"time.days" = "d";
+"time.months" = "me";
+"time.years" = "A";
+"error.wifi" = "Conéctate a la wifi de Interprest. Una vez que lo hayas hecho vuelve a intentarlo.";
